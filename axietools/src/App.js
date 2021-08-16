@@ -17,6 +17,8 @@ justify-content: center;
 width: 100%;
 flex-direction: column;
 min-height: 20px;
+background-color: black;
+color: white;
 `
 
 const BannerTitle = styled.div`
